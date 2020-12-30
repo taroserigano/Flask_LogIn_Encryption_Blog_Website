@@ -1,6 +1,7 @@
 # Taro_Blog_Flask
 
 ## Interactive Flask blog app. 
+### Python + Flask + Flask Mail + Postgre SQL + Werkzeug Encryption + Salting Password + Gravatar and more!
 
 Try the working website here: https://flask-taro-blog-web.herokuapp.com/
 
