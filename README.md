@@ -11,7 +11,8 @@ Try the working website here: https://flask-taro-blog-web.herokuapp.com/
 
 <img src="static/gitimg/blog.jpg">
 
-
+## Registration managed by PostGre SQL.
+### Your password will be safely encrypted using Werkzeug hashing. ✌
 <img src="static/gitimg/reg.jpg">
 
 
