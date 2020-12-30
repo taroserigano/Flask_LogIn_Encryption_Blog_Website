@@ -27,3 +27,4 @@ Try the working website here: https://flask-taro-blog-web.herokuapp.com/
 
 <img src="static/gitimg/contact.jpg">
 
+yes
